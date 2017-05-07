@@ -14,7 +14,7 @@
   "latedef": true,
   "node": true,
   "strict": "implied",
-  "undef": true
-  "unused": true
-  "varstmt": true
+  "undef": true,
+  "unused": true,
+  "varstmt": true,
 }
