@@ -16,5 +16,5 @@
   "strict": "implied",
   "undef": true,
   "unused": true,
-  "varstmt": true,
+  "varstmt": true
 }
